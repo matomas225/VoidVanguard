@@ -1,4 +1,4 @@
-# VoidVanguard
+# Void Vanguard
 
 A thrilling 2D space shooter game built with SDL2 lib and C language. Control a cube in space, defend against waves of enemy cubes, upgrade your abilities, and achieve the highest score!
 
