@@ -1,0 +1,22 @@
+# Object files
+*.o
+*_win.o
+resources.o
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Executables
+VoidVanguard
+VoidVanguard.exe
+game
+game.exe
+
+# Release directories and archives
+VoidVanguard-Linux/
+VoidVanguard-Windows/
+VoidVanguard-*.zip
+
+# Temporary files
+downloaded_file
